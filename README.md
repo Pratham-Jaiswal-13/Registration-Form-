@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For questions or feedback, feel free to reach out:
 - **GitHub**: [Pratham-Jaiswal-13](https://github.com/Pratham-Jaiswal-13)
-- **Email**: your.email@example.com (replace with your actual email)
+- **Email**: prathamjaiswal4282@gmail.com (replace with your actual email)
 
 ---
 
